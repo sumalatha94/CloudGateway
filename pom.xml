@@ -13,6 +13,7 @@
 	<artifactId>CloudGateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CloudGateway</name>
+	<packages>war</packages>
 	<description>Demo project for Spring Boot with microservices</description>
 	<properties>
 		<java.version>1.8</java.version>
